@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+html {
+    background-color: rgb(1, 136, 255);
+}
+.gêneros {
+    border: 10px solid red;
+    inline-size: 50%;
+    font-size: 50px;
+    background-color: white;
+
+}
+.arquivos {
+    font: 5em sans-serif;
+}
+.mande-arquivos {
+    font: 0.5em sans-serif;   
+}
+.enviar-arquivos {
+    font: 0.3em sans-serif;
+}
+.titulo {
+    font: 5.5em sans-serif;
+}
+.subtitulos {
+    font: 5.5em sans-serif;
+    
+}
+.seção {
+    width: 100%;
+    height: 100vh;
+    border-top: 10px solid gray;
+}
+.seção-2 {
+    width: 100%;
+    height: 100vh;
+    padding-top: 100px;
+    border-top: 10px solid gray;
+    border-bottom: 10px solid gray;
+}
+.opção {
+    font: 3em sans-serif;
+    border: 10px solid rgb(8, 126, 120);
+    inline-size: 50%;
+    background-color: white;
+}
